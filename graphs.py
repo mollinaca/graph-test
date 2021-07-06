@@ -68,7 +68,7 @@ def adj_dict ():
     elapsed_time = time.time() - start
     print ("elapsed_time:{0}".format(elapsed_time) + "[sec]")
     print (sys.getsizeof(graph))
-    #print(graph)
+   #print(graph)
 
 def adj_dict_weight ():
     start = time.time()
